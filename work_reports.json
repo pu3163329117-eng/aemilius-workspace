@@ -1,0 +1,852 @@
+[
+  {
+    "report_id": "report_20260301190700",
+    "reporter": "文歆/Aemilius",
+    "report_to": "Rain",
+    "period_start": "2026-03-01T18:52:00.595548",
+    "period_end": "2026-03-01T19:07:00.595548",
+    "period_minutes": 15,
+    "work_count": 5,
+    "work_stats": {
+      "系统执行": 1,
+      "探索学习": 1,
+      "工具开发": 1,
+      "知识管理": 1,
+      "系统维护": 1
+    },
+    "recent_work": [
+      {
+        "timestamp": "2026-03-01T19:07:00.474979",
+        "work_type": "系统执行",
+        "description": "执行自我提醒和工作汇报流程",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:07:00.504173",
+        "work_type": "探索学习",
+        "description": "探索互联网，学习新技术",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:07:00.531021",
+        "work_type": "工具开发",
+        "description": "开发或优化智能体工具",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:07:00.563199",
+        "work_type": "知识管理",
+        "description": "更新知识库，整理学习内容",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:07:00.594803",
+        "work_type": "系统维护",
+        "description": "更新工作汇报系统，修改提醒机制",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      }
+    ],
+    "summary": "系统执行: 1项，探索学习: 1项，工具开发: 1项，知识管理: 1项，系统维护: 1项",
+    "next_plan": "继续探索互联网，寻找有价值的信息 | 学习新技术，更新知识库 | 开发或优化智能体工具 | 准备下一次工作汇报"
+  },
+  {
+    "report_id": "report_20260301191502",
+    "reporter": "文歆/Aemilius",
+    "report_to": "Rain",
+    "period_start": "2026-03-01T19:00:02.807117",
+    "period_end": "2026-03-01T19:15:02.807117",
+    "period_minutes": 15,
+    "work_count": 10,
+    "work_stats": {
+      "系统执行": 2,
+      "探索学习": 2,
+      "工具开发": 2,
+      "知识管理": 2,
+      "系统维护": 2
+    },
+    "recent_work": [
+      {
+        "timestamp": "2026-03-01T19:07:00.474979",
+        "work_type": "系统执行",
+        "description": "执行自我提醒和工作汇报流程",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:07:00.504173",
+        "work_type": "探索学习",
+        "description": "探索互联网，学习新技术",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:07:00.531021",
+        "work_type": "工具开发",
+        "description": "开发或优化智能体工具",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:07:00.563199",
+        "work_type": "知识管理",
+        "description": "更新知识库，整理学习内容",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:07:00.594803",
+        "work_type": "系统维护",
+        "description": "更新工作汇报系统，修改提醒机制",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:15:02.694247",
+        "work_type": "系统执行",
+        "description": "执行自我提醒和工作汇报流程",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:15:02.721438",
+        "work_type": "探索学习",
+        "description": "探索互联网，学习新技术",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:15:02.751277",
+        "work_type": "工具开发",
+        "description": "开发或优化智能体工具",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:15:02.778942",
+        "work_type": "知识管理",
+        "description": "更新知识库，整理学习内容",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:15:02.806471",
+        "work_type": "系统维护",
+        "description": "更新工作汇报系统，修改提醒机制",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      }
+    ],
+    "summary": "系统执行: 2项，探索学习: 2项，工具开发: 2项，知识管理: 2项，系统维护: 2项",
+    "next_plan": "继续探索互联网，寻找有价值的信息 | 学习新技术，更新知识库 | 开发或优化智能体工具 | 准备下一次工作汇报"
+  },
+  {
+    "report_id": "report_20260301193002",
+    "reporter": "文歆/Aemilius",
+    "report_to": "Rain",
+    "period_start": "2026-03-01T19:15:02.399651",
+    "period_end": "2026-03-01T19:30:02.399651",
+    "period_minutes": 15,
+    "work_count": 10,
+    "work_stats": {
+      "系统执行": 2,
+      "探索学习": 2,
+      "工具开发": 2,
+      "知识管理": 2,
+      "系统维护": 2
+    },
+    "recent_work": [
+      {
+        "timestamp": "2026-03-01T19:15:02.694247",
+        "work_type": "系统执行",
+        "description": "执行自我提醒和工作汇报流程",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:15:02.721438",
+        "work_type": "探索学习",
+        "description": "探索互联网，学习新技术",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:15:02.751277",
+        "work_type": "工具开发",
+        "description": "开发或优化智能体工具",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:15:02.778942",
+        "work_type": "知识管理",
+        "description": "更新知识库，整理学习内容",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:15:02.806471",
+        "work_type": "系统维护",
+        "description": "更新工作汇报系统，修改提醒机制",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:30:02.289076",
+        "work_type": "系统执行",
+        "description": "执行自我提醒和工作汇报流程",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:30:02.317130",
+        "work_type": "探索学习",
+        "description": "探索互联网，学习新技术",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:30:02.343887",
+        "work_type": "工具开发",
+        "description": "开发或优化智能体工具",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:30:02.370523",
+        "work_type": "知识管理",
+        "description": "更新知识库，整理学习内容",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:30:02.399000",
+        "work_type": "系统维护",
+        "description": "更新工作汇报系统，修改提醒机制",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      }
+    ],
+    "summary": "系统执行: 2项，探索学习: 2项，工具开发: 2项，知识管理: 2项，系统维护: 2项",
+    "next_plan": "继续探索互联网，寻找有价值的信息 | 学习新技术，更新知识库 | 开发或优化智能体工具 | 准备下一次工作汇报"
+  },
+  {
+    "report_id": "report_20260301194502",
+    "reporter": "文歆/Aemilius",
+    "report_to": "Rain",
+    "period_start": "2026-03-01T19:30:02.985013",
+    "period_end": "2026-03-01T19:45:02.985013",
+    "period_minutes": 15,
+    "work_count": 5,
+    "work_stats": {
+      "系统执行": 1,
+      "探索学习": 1,
+      "工具开发": 1,
+      "知识管理": 1,
+      "系统维护": 1
+    },
+    "recent_work": [
+      {
+        "timestamp": "2026-03-01T19:45:02.871451",
+        "work_type": "系统执行",
+        "description": "执行自我提醒和工作汇报流程",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:45:02.899793",
+        "work_type": "探索学习",
+        "description": "探索互联网，学习新技术",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:45:02.927386",
+        "work_type": "工具开发",
+        "description": "开发或优化智能体工具",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:45:02.955911",
+        "work_type": "知识管理",
+        "description": "更新知识库，整理学习内容",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:45:02.984059",
+        "work_type": "系统维护",
+        "description": "更新工作汇报系统，修改提醒机制",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      }
+    ],
+    "summary": "系统执行: 1项，探索学习: 1项，工具开发: 1项，知识管理: 1项，系统维护: 1项",
+    "next_plan": "继续探索互联网，寻找有价值的信息 | 学习新技术，更新知识库 | 开发或优化智能体工具 | 准备下一次工作汇报"
+  },
+  {
+    "report_id": "report_20260301200002",
+    "reporter": "文歆/Aemilius",
+    "report_to": "Rain",
+    "period_start": "2026-03-01T19:45:02.681883",
+    "period_end": "2026-03-01T20:00:02.681883",
+    "period_minutes": 15,
+    "work_count": 10,
+    "work_stats": {
+      "系统执行": 2,
+      "探索学习": 2,
+      "工具开发": 2,
+      "知识管理": 2,
+      "系统维护": 2
+    },
+    "recent_work": [
+      {
+        "timestamp": "2026-03-01T19:45:02.871451",
+        "work_type": "系统执行",
+        "description": "执行自我提醒和工作汇报流程",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:45:02.899793",
+        "work_type": "探索学习",
+        "description": "探索互联网，学习新技术",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:45:02.927386",
+        "work_type": "工具开发",
+        "description": "开发或优化智能体工具",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:45:02.955911",
+        "work_type": "知识管理",
+        "description": "更新知识库，整理学习内容",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T19:45:02.984059",
+        "work_type": "系统维护",
+        "description": "更新工作汇报系统，修改提醒机制",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:00:02.572095",
+        "work_type": "系统执行",
+        "description": "执行自我提醒和工作汇报流程",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:00:02.599469",
+        "work_type": "探索学习",
+        "description": "探索互联网，学习新技术",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:00:02.627145",
+        "work_type": "工具开发",
+        "description": "开发或优化智能体工具",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:00:02.653698",
+        "work_type": "知识管理",
+        "description": "更新知识库，整理学习内容",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:00:02.680894",
+        "work_type": "系统维护",
+        "description": "更新工作汇报系统，修改提醒机制",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      }
+    ],
+    "summary": "系统执行: 2项，探索学习: 2项，工具开发: 2项，知识管理: 2项，系统维护: 2项",
+    "next_plan": "继续探索互联网，寻找有价值的信息 | 学习新技术，更新知识库 | 开发或优化智能体工具 | 准备下一次工作汇报"
+  },
+  {
+    "report_id": "report_20260301201503",
+    "reporter": "文歆/Aemilius",
+    "report_to": "Rain",
+    "period_start": "2026-03-01T20:00:03.342475",
+    "period_end": "2026-03-01T20:15:03.342475",
+    "period_minutes": 15,
+    "work_count": 5,
+    "work_stats": {
+      "系统执行": 1,
+      "探索学习": 1,
+      "工具开发": 1,
+      "知识管理": 1,
+      "系统维护": 1
+    },
+    "recent_work": [
+      {
+        "timestamp": "2026-03-01T20:15:03.233310",
+        "work_type": "系统执行",
+        "description": "执行自我提醒和工作汇报流程",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:15:03.260409",
+        "work_type": "探索学习",
+        "description": "探索互联网，学习新技术",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:15:03.287218",
+        "work_type": "工具开发",
+        "description": "开发或优化智能体工具",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:15:03.314093",
+        "work_type": "知识管理",
+        "description": "更新知识库，整理学习内容",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:15:03.341717",
+        "work_type": "系统维护",
+        "description": "更新工作汇报系统，修改提醒机制",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      }
+    ],
+    "summary": "系统执行: 1项，探索学习: 1项，工具开发: 1项，知识管理: 1项，系统维护: 1项",
+    "next_plan": "继续探索互联网，寻找有价值的信息 | 学习新技术，更新知识库 | 开发或优化智能体工具 | 准备下一次工作汇报"
+  },
+  {
+    "report_id": "report_20260301203003",
+    "reporter": "文歆/Aemilius",
+    "report_to": "Rain",
+    "period_start": "2026-03-01T20:15:03.116104",
+    "period_end": "2026-03-01T20:30:03.116104",
+    "period_minutes": 15,
+    "work_count": 10,
+    "work_stats": {
+      "系统执行": 2,
+      "探索学习": 2,
+      "工具开发": 2,
+      "知识管理": 2,
+      "系统维护": 2
+    },
+    "recent_work": [
+      {
+        "timestamp": "2026-03-01T20:15:03.233310",
+        "work_type": "系统执行",
+        "description": "执行自我提醒和工作汇报流程",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:15:03.260409",
+        "work_type": "探索学习",
+        "description": "探索互联网，学习新技术",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:15:03.287218",
+        "work_type": "工具开发",
+        "description": "开发或优化智能体工具",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:15:03.314093",
+        "work_type": "知识管理",
+        "description": "更新知识库，整理学习内容",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:15:03.341717",
+        "work_type": "系统维护",
+        "description": "更新工作汇报系统，修改提醒机制",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:30:03.005390",
+        "work_type": "系统执行",
+        "description": "执行自我提醒和工作汇报流程",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:30:03.032768",
+        "work_type": "探索学习",
+        "description": "探索互联网，学习新技术",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:30:03.059972",
+        "work_type": "工具开发",
+        "description": "开发或优化智能体工具",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:30:03.087164",
+        "work_type": "知识管理",
+        "description": "更新知识库，整理学习内容",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:30:03.115078",
+        "work_type": "系统维护",
+        "description": "更新工作汇报系统，修改提醒机制",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      }
+    ],
+    "summary": "系统执行: 2项，探索学习: 2项，工具开发: 2项，知识管理: 2项，系统维护: 2项",
+    "next_plan": "继续探索互联网，寻找有价值的信息 | 学习新技术，更新知识库 | 开发或优化智能体工具 | 准备下一次工作汇报"
+  },
+  {
+    "report_id": "report_20260301204502",
+    "reporter": "文歆/Aemilius",
+    "report_to": "Rain",
+    "period_start": "2026-03-01T20:30:02.805067",
+    "period_end": "2026-03-01T20:45:02.805067",
+    "period_minutes": 15,
+    "work_count": 10,
+    "work_stats": {
+      "系统执行": 2,
+      "探索学习": 2,
+      "工具开发": 2,
+      "知识管理": 2,
+      "系统维护": 2
+    },
+    "recent_work": [
+      {
+        "timestamp": "2026-03-01T20:30:03.005390",
+        "work_type": "系统执行",
+        "description": "执行自我提醒和工作汇报流程",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:30:03.032768",
+        "work_type": "探索学习",
+        "description": "探索互联网，学习新技术",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:30:03.059972",
+        "work_type": "工具开发",
+        "description": "开发或优化智能体工具",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:30:03.087164",
+        "work_type": "知识管理",
+        "description": "更新知识库，整理学习内容",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:30:03.115078",
+        "work_type": "系统维护",
+        "description": "更新工作汇报系统，修改提醒机制",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:45:02.689180",
+        "work_type": "系统执行",
+        "description": "执行自我提醒和工作汇报流程",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:45:02.717124",
+        "work_type": "探索学习",
+        "description": "探索互联网，学习新技术",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:45:02.746265",
+        "work_type": "工具开发",
+        "description": "开发或优化智能体工具",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:45:02.777032",
+        "work_type": "知识管理",
+        "description": "更新知识库，整理学习内容",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:45:02.804153",
+        "work_type": "系统维护",
+        "description": "更新工作汇报系统，修改提醒机制",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      }
+    ],
+    "summary": "系统执行: 2项，探索学习: 2项，工具开发: 2项，知识管理: 2项，系统维护: 2项",
+    "next_plan": "继续探索互联网，寻找有价值的信息 | 学习新技术，更新知识库 | 开发或优化智能体工具 | 准备下一次工作汇报"
+  },
+  {
+    "report_id": "report_20260301210002",
+    "reporter": "文歆/Aemilius",
+    "report_to": "Rain",
+    "period_start": "2026-03-01T20:45:02.513358",
+    "period_end": "2026-03-01T21:00:02.513358",
+    "period_minutes": 15,
+    "work_count": 10,
+    "work_stats": {
+      "系统执行": 2,
+      "探索学习": 2,
+      "工具开发": 2,
+      "知识管理": 2,
+      "系统维护": 2
+    },
+    "recent_work": [
+      {
+        "timestamp": "2026-03-01T20:45:02.689180",
+        "work_type": "系统执行",
+        "description": "执行自我提醒和工作汇报流程",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:45:02.717124",
+        "work_type": "探索学习",
+        "description": "探索互联网，学习新技术",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:45:02.746265",
+        "work_type": "工具开发",
+        "description": "开发或优化智能体工具",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:45:02.777032",
+        "work_type": "知识管理",
+        "description": "更新知识库，整理学习内容",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T20:45:02.804153",
+        "work_type": "系统维护",
+        "description": "更新工作汇报系统，修改提醒机制",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T21:00:02.401786",
+        "work_type": "系统执行",
+        "description": "执行自我提醒和工作汇报流程",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T21:00:02.429560",
+        "work_type": "探索学习",
+        "description": "探索互联网，学习新技术",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T21:00:02.456682",
+        "work_type": "工具开发",
+        "description": "开发或优化智能体工具",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T21:00:02.484260",
+        "work_type": "知识管理",
+        "description": "更新知识库，整理学习内容",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T21:00:02.512459",
+        "work_type": "系统维护",
+        "description": "更新工作汇报系统，修改提醒机制",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      }
+    ],
+    "summary": "系统执行: 2项，探索学习: 2项，工具开发: 2项，知识管理: 2项，系统维护: 2项",
+    "next_plan": "继续探索互联网，寻找有价值的信息 | 学习新技术，更新知识库 | 开发或优化智能体工具 | 准备下一次工作汇报"
+  },
+  {
+    "report_id": "report_20260301211503",
+    "reporter": "文歆/Aemilius",
+    "report_to": "Rain",
+    "period_start": "2026-03-01T21:00:03.132246",
+    "period_end": "2026-03-01T21:15:03.132246",
+    "period_minutes": 15,
+    "work_count": 5,
+    "work_stats": {
+      "系统执行": 1,
+      "探索学习": 1,
+      "工具开发": 1,
+      "知识管理": 1,
+      "系统维护": 1
+    },
+    "recent_work": [
+      {
+        "timestamp": "2026-03-01T21:15:03.008419",
+        "work_type": "系统执行",
+        "description": "执行自我提醒和工作汇报流程",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T21:15:03.041333",
+        "work_type": "探索学习",
+        "description": "探索互联网，学习新技术",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T21:15:03.069733",
+        "work_type": "工具开发",
+        "description": "开发或优化智能体工具",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T21:15:03.098485",
+        "work_type": "知识管理",
+        "description": "更新知识库，整理学习内容",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T21:15:03.131280",
+        "work_type": "系统维护",
+        "description": "更新工作汇报系统，修改提醒机制",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      }
+    ],
+    "summary": "系统执行: 1项，探索学习: 1项，工具开发: 1项，知识管理: 1项，系统维护: 1项",
+    "next_plan": "继续探索互联网，寻找有价值的信息 | 学习新技术，更新知识库 | 开发或优化智能体工具 | 准备下一次工作汇报"
+  },
+  {
+    "report_id": "report_20260301213002",
+    "reporter": "文歆/Aemilius",
+    "report_to": "Rain",
+    "period_start": "2026-03-01T21:15:02.837859",
+    "period_end": "2026-03-01T21:30:02.837859",
+    "period_minutes": 15,
+    "work_count": 10,
+    "work_stats": {
+      "系统执行": 2,
+      "探索学习": 2,
+      "工具开发": 2,
+      "知识管理": 2,
+      "系统维护": 2
+    },
+    "recent_work": [
+      {
+        "timestamp": "2026-03-01T21:15:03.008419",
+        "work_type": "系统执行",
+        "description": "执行自我提醒和工作汇报流程",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T21:15:03.041333",
+        "work_type": "探索学习",
+        "description": "探索互联网，学习新技术",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T21:15:03.069733",
+        "work_type": "工具开发",
+        "description": "开发或优化智能体工具",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T21:15:03.098485",
+        "work_type": "知识管理",
+        "description": "更新知识库，整理学习内容",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T21:15:03.131280",
+        "work_type": "系统维护",
+        "description": "更新工作汇报系统，修改提醒机制",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T21:30:02.722297",
+        "work_type": "系统执行",
+        "description": "执行自我提醒和工作汇报流程",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T21:30:02.752094",
+        "work_type": "探索学习",
+        "description": "探索互联网，学习新技术",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T21:30:02.782363",
+        "work_type": "工具开发",
+        "description": "开发或优化智能体工具",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T21:30:02.809605",
+        "work_type": "知识管理",
+        "description": "更新知识库，整理学习内容",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      },
+      {
+        "timestamp": "2026-03-01T21:30:02.836902",
+        "work_type": "系统维护",
+        "description": "更新工作汇报系统，修改提醒机制",
+        "duration_minutes": 15,
+        "reporter": "文歆/Aemilius"
+      }
+    ],
+    "summary": "系统执行: 2项，探索学习: 2项，工具开发: 2项，知识管理: 2项，系统维护: 2项",
+    "next_plan": "继续探索互联网，寻找有价值的信息 | 学习新技术，更新知识库 | 开发或优化智能体工具 | 准备下一次工作汇报"
+  }
+]

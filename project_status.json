@@ -1,0 +1,57 @@
+{
+  "last_updated": "2026-03-01T23:25:41.216912",
+  "projects": {
+    "iphone_fund": {
+      "name": "iPhone赚钱计划",
+      "target": 13000,
+      "current": 999,
+      "progress": 7.7,
+      "status": "active",
+      "next_milestone": "第一个真实客户",
+      "milestone_date": "2026-03-05"
+    },
+    "ai_assistant": {
+      "name": "AI助手产品开发",
+      "target": "完成5个产品模板",
+      "current": "已完成",
+      "progress": 100,
+      "status": "completed",
+      "next_task": "营销推广",
+      "task_date": "2026-03-02"
+    },
+    "system_build": {
+      "name": "托管系统建设",
+      "target": "完全自动化托管",
+      "current": "规划阶段",
+      "progress": 30,
+      "status": "active",
+      "next_task": "实施基础系统",
+      "task_date": "2026-03-01"
+    }
+  },
+  "daily_tasks": [
+    {
+      "id": "task_20260302080002",
+      "task": "客户开发与营销推广",
+      "priority": "high",
+      "added_at": "2026-03-02T08:00:02.127124",
+      "completed": false
+    },
+    {
+      "id": "task_20260302080002",
+      "task": "AI助手产品优化",
+      "priority": "medium",
+      "added_at": "2026-03-02T08:00:02.128761",
+      "completed": false
+    },
+    {
+      "id": "task_20260302080002",
+      "task": "系统维护与改进",
+      "priority": "low",
+      "added_at": "2026-03-02T08:00:02.133411",
+      "completed": false
+    }
+  ],
+  "completed_tasks": [],
+  "pending_decisions": []
+}

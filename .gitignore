@@ -1,0 +1,94 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+svelte-kit/
+svelte/
+share/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OpenClaw
+.openclaw/
+.clawhub/
+.pi/
+
+# Schedule database
+schedule.db
+
+# Data files
+*.json
+*.csv
+*.xlsx
+
+# Exceptions for important JSON files (keep these)
+!github_projects.json
+!income_data.json
+!project_status.json
+!simple_work_log.json
+!smart_work_log.json
+!super_ns_chat.json
+!work_log.json
+!work_reports.json
+
+# Memory directory
+memory/
+
+# Cache directories
+.cache/
+
+# Submodules and external projects
+NS-MeetAI/
+NS-MeetAI-fixed/
+NS-Smart-Shopping/
+anthropic-skills/
+cherry-studio-analysis/
+skills/

@@ -1,0 +1,49 @@
+{
+  "target_amount": 13000,
+  "start_date": "2026-03-01T21:08:16.613467",
+  "current_balance": 999.0,
+  "transactions": [
+    {
+      "id": "tx_20260301210828",
+      "amount": 999.0,
+      "source": "AI助手销售",
+      "description": "智能客服助手 - 基础版预售定金",
+      "timestamp": "2026-03-01T21:08:28.170765",
+      "type": "income"
+    }
+  ],
+  "daily_goals": {
+    "2026-03-01": {
+      "goal_amount": 500.0,
+      "achieved_amount": 0,
+      "achieved": false
+    }
+  },
+  "milestones": [
+    {
+      "amount": 1300,
+      "name": "10% - 第一个项目",
+      "achieved": false
+    },
+    {
+      "amount": 3900,
+      "name": "30% - 稳定收入",
+      "achieved": false
+    },
+    {
+      "amount": 6500,
+      "name": "50% - 过半目标",
+      "achieved": false
+    },
+    {
+      "amount": 9100,
+      "name": "70% - 接近完成",
+      "achieved": false
+    },
+    {
+      "amount": 13000,
+      "name": "100% - 购买iPhone!",
+      "achieved": false
+    }
+  ]
+}
